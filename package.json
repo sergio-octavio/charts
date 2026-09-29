@@ -130,9 +130,9 @@
     "d3-time": "3.1.0",
     "d3-zoom": "3.0.0",
     "echarts": "6.1.0",
-    "esbuild": "^0.27.0",
+    "esbuild": "^0.28.1",
     "jsdom": "^29.0.2",
-    "nx": "22.7.5",
+    "nx": "22.7.7",
     "octane": "0.1.13",
     "playwright": "1.62.0",
     "prettier": "^3.8.4",
@@ -147,7 +147,7 @@
     "us-atlas": "3.0.1",
     "vite": "^8.0.16",
     "vite-plugin-solid": "^2.11.12",
-    "vitest": "^4.1.9",
+    "vitest": "^5.0.2",
     "world-atlas": "2.0.2",
     "wrangler": "4.103.0"
   }
